@@ -1,0 +1,3 @@
+export const REGION_IDS_FOR_LIMITED_USERS: number[] = [
+  86118093, 86696489, 88186467,
+];
